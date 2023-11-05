@@ -298,6 +298,7 @@ a {
 
 .skills_container {
     height: 100%;
+    padding: 50px;
 }
 
 .xp {
@@ -306,6 +307,7 @@ a {
 
 .xp_container {
     height: 100%;
+    padding: 50px;
 }
 
 .sk_title {
@@ -315,6 +317,16 @@ a {
 .sk_text {
     margin-top: 20px;
     font-size: 20px;
+}
+
+.skills_text {
+    font-size: 40px;
+    font-weight: 300;
+}
+
+.xp_text {
+    font-size: 40px;
+    font-weight: 300;
 }
 
 .main_power {
